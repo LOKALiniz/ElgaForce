@@ -65,12 +65,4 @@ This tool is meant to be used in the context of ethical hacking projects, such a
 - Backbox  
 - Android - Trimix
 - Iphone - ish 
-
-## BUG ? 
-- Please Submit new issue 
-- Contact me
-- Hey ? do you want ask about all my tools ? you can join me in [Telegram](https://T.me/flaah999)
-
- ## Download and Clone
- > Download: Click [Here](https://github.com/0xfff0800/Brute-force-Instagram-2025/archive/master.zip) (Brute-force-Instagram-2025.zip)
  
